@@ -3,8 +3,9 @@ describe('DSDP', () => {
 
   const AdminEmail = 'kibria.qa.bulipe@gmail.com';
   const AdminPassword = 'Password@123';
+  
 
-  const studentEmail = 'shohanshohoz10@gmail.com';
+  const studentEmail = 'shohanshohoz10@gmail.com';// This email should be registered in the application
   const studentPassword = 'Bulipe@2025';
 
   const filePath = 'Attachments/QA Course.jpg'; // This file should be in the cypress/fixtures/files folder
