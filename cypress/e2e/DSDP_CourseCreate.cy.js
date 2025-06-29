@@ -1,7 +1,7 @@
 describe('DSDP', () => {
   const baseUrl = 'http://20.188.114.175:4000/';
 
-  const AdminEmail = 'kibria.qa.bulipe@gmail.com';
+  const AdminEmail = 'kibria.qa.bulipeeee@gmail.com';
   const AdminPassword = 'Password@123';
   
 
